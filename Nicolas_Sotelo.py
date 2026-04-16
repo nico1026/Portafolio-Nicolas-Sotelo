@@ -43,7 +43,7 @@ col_left, col_mid, col_right = st.columns([2, 0.8, 2])
 
 with col_left:
     st.markdown("<br><br>", unsafe_allow_html=True) # Espaciador
-    # Usamos HTML para centrar el título y la lista
+    
     st.markdown("""
         <div style="text-align: center;">
             <h3 style="color: orange;">💻 <b>Skills</b></h3>
